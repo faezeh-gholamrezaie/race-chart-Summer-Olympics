@@ -1,8 +1,12 @@
 **"Welcome to the Summer Olympics Race Chart repository!**
 
-This repository contains the code and data used to create a race chart that displays the performance of athletes based on their race, using data collected from the Summer Olympics held between 1976 and 2008. The data is available on Kaggle (https://www.kaggle.com/datasets/divyansh22/summer-olympics-medals)
+This repository contains the code and data used to create a race chart that displays the performance of athletes based on their race, using data collected from the Summer Olympics held between 1976 and 2008. The data is available on Kaggle:
 
-The chart was prepared using Flourish Studio and can be viewed here: https://app.flourish.studio/@flourish/bar-chart-race.
+(https://www.kaggle.com/datasets/divyansh22/summer-olympics-medals)
+
+The chart was prepared using Flourish Studio and can be viewed here:
+
+https://app.flourish.studio/@flourish/bar-chart-race.
 
 
 
