@@ -1,4 +1,4 @@
-**"Welcome to the Summer Olympics Race Chart repository!
+**"Welcome to the Summer Olympics Race Chart repository!**
 
 This repository contains the code and data used to create a race chart that displays the performance of athletes based on their race, using data collected from the Summer Olympics held between 1976 and 2008. The data is available on Kaggle (https://www.kaggle.com/datasets/divyansh22/summer-olympics-medals)
 
